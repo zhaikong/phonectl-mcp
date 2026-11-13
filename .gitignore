@@ -7,3 +7,5 @@ build/
 .pytest_cache/
 # personal notes for Claude Code, not part of the project
 CLAUDE.local.md
+config.bat
+node_modules
